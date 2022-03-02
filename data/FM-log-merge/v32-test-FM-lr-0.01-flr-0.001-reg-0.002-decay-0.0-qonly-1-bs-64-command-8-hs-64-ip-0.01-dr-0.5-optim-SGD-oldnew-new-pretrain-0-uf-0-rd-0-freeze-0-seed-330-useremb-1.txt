@@ -1,0 +1,150 @@
+Starting 0 epoch
+training loss 1: tensor([1.0962], device='cuda:0')
+training loss 2: 0.0
+Starting 1 epoch
+training loss 1: tensor([0.5241], device='cuda:0')
+training loss 2: 0.0
+Starting 2 epoch
+training loss 1: tensor([0.3667], device='cuda:0')
+training loss 2: 0.0
+Starting 3 epoch
+training loss 1: tensor([0.3034], device='cuda:0')
+training loss 2: 0.0
+Starting 4 epoch
+training loss 1: tensor([0.2658], device='cuda:0')
+training loss 2: 0.0
+Starting 5 epoch
+training loss 1: tensor([0.2410], device='cuda:0')
+training loss 2: 0.0
+Starting 6 epoch
+training loss 1: tensor([0.2219], device='cuda:0')
+training loss 2: 0.0
+Starting 7 epoch
+training loss 1: tensor([0.2104], device='cuda:0')
+training loss 2: 0.0
+Starting 8 epoch
+training loss 1: tensor([0.1995], device='cuda:0')
+training loss 2: 0.0
+Starting 9 epoch
+training loss 1: tensor([0.1902], device='cuda:0')
+training loss 2: 0.0
+Starting 10 epoch
+training loss 1: tensor([0.1812], device='cuda:0')
+training loss 2: 0.0
+Starting 11 epoch
+training loss 1: tensor([0.1753], device='cuda:0')
+training loss 2: 0.0
+Starting 12 epoch
+training loss 1: tensor([0.1700], device='cuda:0')
+training loss 2: 0.0
+Starting 13 epoch
+training loss 1: tensor([0.1655], device='cuda:0')
+training loss 2: 0.0
+Starting 14 epoch
+training loss 1: tensor([0.1603], device='cuda:0')
+training loss 2: 0.0
+Starting 15 epoch
+training loss 1: tensor([0.1562], device='cuda:0')
+training loss 2: 0.0
+Starting 16 epoch
+training loss 1: tensor([0.1540], device='cuda:0')
+training loss 2: 0.0
+Starting 17 epoch
+training loss 1: tensor([0.1514], device='cuda:0')
+training loss 2: 0.0
+Starting 18 epoch
+training loss 1: tensor([0.1481], device='cuda:0')
+training loss 2: 0.0
+Starting 19 epoch
+training loss 1: tensor([0.1445], device='cuda:0')
+training loss 2: 0.0
+Starting 20 epoch
+training loss 1: tensor([0.1411], device='cuda:0')
+training loss 2: 0.0
+Starting 21 epoch
+training loss 1: tensor([0.1388], device='cuda:0')
+training loss 2: 0.0
+Starting 22 epoch
+training loss 1: tensor([0.1373], device='cuda:0')
+training loss 2: 0.0
+Starting 23 epoch
+training loss 1: tensor([0.1363], device='cuda:0')
+training loss 2: 0.0
+Starting 24 epoch
+training loss 1: tensor([0.1345], device='cuda:0')
+training loss 2: 0.0
+Starting 25 epoch
+training loss 1: tensor([0.1325], device='cuda:0')
+training loss 2: 0.0
+Starting 26 epoch
+training loss 1: tensor([0.1315], device='cuda:0')
+training loss 2: 0.0
+Starting 27 epoch
+training loss 1: tensor([0.1301], device='cuda:0')
+training loss 2: 0.0
+Starting 28 epoch
+training loss 1: tensor([0.1275], device='cuda:0')
+training loss 2: 0.0
+Starting 29 epoch
+training loss 1: tensor([0.1265], device='cuda:0')
+training loss 2: 0.0
+Starting 30 epoch
+training loss 1: tensor([0.1240], device='cuda:0')
+training loss 2: 0.0
+Starting 31 epoch
+training loss 1: tensor([0.1241], device='cuda:0')
+training loss 2: 0.0
+Starting 32 epoch
+training loss 1: tensor([0.1222], device='cuda:0')
+training loss 2: 0.0
+Starting 33 epoch
+training loss 1: tensor([0.1217], device='cuda:0')
+training loss 2: 0.0
+Starting 34 epoch
+training loss 1: tensor([0.1202], device='cuda:0')
+training loss 2: 0.0
+Starting 35 epoch
+training loss 1: tensor([0.1192], device='cuda:0')
+training loss 2: 0.0
+Starting 36 epoch
+training loss 1: tensor([0.1187], device='cuda:0')
+training loss 2: 0.0
+Starting 37 epoch
+training loss 1: tensor([0.1179], device='cuda:0')
+training loss 2: 0.0
+Starting 38 epoch
+training loss 1: tensor([0.1172], device='cuda:0')
+training loss 2: 0.0
+Starting 39 epoch
+training loss 1: tensor([0.1148], device='cuda:0')
+training loss 2: 0.0
+Starting 40 epoch
+training loss 1: tensor([0.1155], device='cuda:0')
+training loss 2: 0.0
+Starting 41 epoch
+training loss 1: tensor([0.1143], device='cuda:0')
+training loss 2: 0.0
+Starting 42 epoch
+training loss 1: tensor([0.1136], device='cuda:0')
+training loss 2: 0.0
+Starting 43 epoch
+training loss 1: tensor([0.1141], device='cuda:0')
+training loss 2: 0.0
+Starting 44 epoch
+training loss 1: tensor([0.1137], device='cuda:0')
+training loss 2: 0.0
+Starting 45 epoch
+training loss 1: tensor([0.1107], device='cuda:0')
+training loss 2: 0.0
+Starting 46 epoch
+training loss 1: tensor([0.1113], device='cuda:0')
+training loss 2: 0.0
+Starting 47 epoch
+training loss 1: tensor([0.1103], device='cuda:0')
+training loss 2: 0.0
+Starting 48 epoch
+training loss 1: tensor([0.1096], device='cuda:0')
+training loss 2: 0.0
+Starting 49 epoch
+training loss 1: tensor([0.1098], device='cuda:0')
+training loss 2: 0.0
