@@ -31,7 +31,7 @@ Demon Code
 │   └── Single_target
 │       ├── Popularity_Popularity_single
 │       ├── Popularity_Positivity_single
-│       └── Popularity_Random_single
+└──       └── Popularity_Random_single
   ```
 
 /data: all prepossessed data files as described above.
