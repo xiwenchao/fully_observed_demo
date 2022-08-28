@@ -1,7 +1,7 @@
 # fully_observed_demo
 
 This is a demo code of experiments in our paper:
->KuaiRec: A Fully Observed Dataset for Recommender Systems, [Paper in arXiv](https://arxiv.org/abs/2202.10842).
+>KuaiRec: A Fully Observed Dataset for Recommender Systems, [CIKM 2022, Full] (https://arxiv.org/abs/2202.10842).
 
 All the methods applied in the experiments have been clearly demonstrated in previous works and their corresponding code (please refer to https://ear-conv-rec.github.io/manual.html). As a result, we only give a simple example of how to make use of our contributed dataset, **KuaiRec**, to train and evaluate a CRS model. Specifically, the provided code is the Pytorch implementation and evaluation of *Popularity-oriented Recommender* (Section 5.1.5 in the paper) under two settings (MTG & STG) with three different sampling strategies (Uniformly Random, Positivity-oriented and Popularity-oriented). More details are given in the original paper.
 
@@ -16,8 +16,8 @@ The code has been tested running under Python 3.7.0. The required packages are a
 * sklearn == 0.19.2
 
 # Data
-The original dataset, **KuaiRec**, including the big matrix for traing and small matrix for evaluation, is detailed and provided in https://chongminggao.github.io/KuaiRec/#. 
-Here, we have prepossessed the data for building our CRS exactly following the implementation of EAR (https://ear-conv-rec.github.io/manual.html). All necessary data files to run the code are provided in "/data". Specifically, these files contains all the positive samples of each user for training, validation and testing, the embeddings of items, users and attributes derived from FM model, as well as the relations between all items and attributes. 
+The original dataset, **KuaiRec**, including the big matrix for traing and small matrix for evaluation, is detailed and provided in https://kuairec.com/#. 
+Here, we have prepossessed the data for building our CRS exactly following the implementation of EAR (https://ear-conv-rec.github.io/manual.html). You can find all necessary data files to run the code in "/data". Specifically, these files contains all the positive samples of each user for training, validation and testing, the embeddings of items, users and attributes derived from FM model, as well as the relations between all items and attributes. 
 
 # File Structure
 
@@ -57,12 +57,16 @@ Note that since randomless lies in the model (due to the sampling strategy), it'
 
 Please kindly cite our paper if you use our codes or dataset.
 ```
-@article{gao2022kuairec,
-	title={KuaiRec: A Fully-observed Dataset for Recommender Systems}, 
-	author={Chongming Gao and Shijun Li and Wenqiang Lei and Biao Li and Peng Jiang and Jiawei Chen and Xiangnan He and Jiaxin Mao and Tat-Seng Chua},
-	year={2022},
-	journal={arXiv preprint arXiv:2202.10842},
-	primaryClass={cs.IR}
+@inproceedings{gao2022kuairec,
+  author = {Chongming Gao and Shijun Li and Wenqiang Lei and Jiawei Chen and Biao Li and Peng Jiang and Xiangnan He and Jiaxin Mao and Tat-Seng Chua},
+  title = {KuaiRec: A Fully-observed Dataset and Insights for Evaluating Recommender Systems},
+  year = {2022},
+  url = {https://doi.org/10.1145/3511808.3557220},
+  doi = {10.1145/3511808.3557220},
+  booktitle = {Proceedings of the 31st ACM International Conference on Information and Knowledge Management},
+  numpages = {11},
+  location = {Atlanta, GA, USA},
+  series = {CIKM '22}
 }
 ```
 
